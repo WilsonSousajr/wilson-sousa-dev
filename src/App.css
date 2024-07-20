@@ -1,3 +1,6 @@
-@import './assets/css/utils/colors.css';
-@import './assets/css/global/global.css';
-@import './assets/css/components/header.css';
+@import "./assets/css/utils/colors.css";
+@import "./assets/css/global/global.css";
+@import "./assets/css/components/header.css";
+
+@import "./assets/css/components/button.css";
+@import "./assets/css/intro/intro.css";
