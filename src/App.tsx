@@ -1,6 +1,7 @@
 import React from "react";
 import { Avatar } from "@mui/material";
 import Header from "./components/Header";
+import LangExperiences from "./components/LangExperiences/LangExperiences";
 import Button from "./components/Button";
 import ProfilePic from "./assets/images/profile-pic.jpg"
 import "./App.css";
@@ -57,6 +58,7 @@ const App: React.FC = () => {
             />
           </div>
         </section>
+      <LangExperiences />
       </main>
     </div>
   );
